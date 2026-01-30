@@ -1,8 +1,7 @@
 ![表紙](../covers/hazimetenoOS.jpg)
+## はじめてのOSコードリーディング ~UNIX V6で学ぶカーネルのしくみ
 
-title: "はじめてのOSコードリーディング ~UNIX V6で学ぶカーネルのしくみ"
-date: 2026-01-28 ~ 2026/
-cover: "/covers/hazimetenoOS.jpg"
+
 
 コンピューターのハードに寄り添った部分から理解するために読み始めた。
 
@@ -11,3 +10,11 @@ cover: "/covers/hazimetenoOS.jpg"
 
 この文について理解できなかったため、AIに尋ねてみた。
 
+
+
+
+---
+title: "はじめてのOSコードリーディング ~UNIX V6で学ぶカーネルのしくみ"
+date: 2026-01-28 ~ 2026/
+cover: "/covers/hazimetenoOS.jpg"
+---
